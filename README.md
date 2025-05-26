@@ -1,6 +1,6 @@
 # Plugify.AI
 
-![Plugify.AI Logo]([logo.png](https://github.com/user-attachments/assets/c685c6ea-ae85-4225-a1ff-6c2b5594eb05)
+![Plugify.AI Logo](https://github.com/user-attachments/assets/c685c6ea-ae85-4225-a1ff-6c2b5594eb05)
 
 **AI-powered plugin generator and deployer for hackathon speed and developer ease.**
 
